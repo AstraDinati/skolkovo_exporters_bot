@@ -1,1 +1,1 @@
-# Этот бот был написан для телеграм сообщества Экспортёров Сколково 
+# This bot was written for the Skolkovo Exporters telegram community
